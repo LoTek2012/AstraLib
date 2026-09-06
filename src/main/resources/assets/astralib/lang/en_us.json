@@ -1,0 +1,13 @@
+{
+  "itemGroup.astralib": "Example Mod Tab",
+  "block.astralib.example_block": "Example Block",
+  "item.astralib.example_item": "Example Item",
+
+  "astralib.configuration.title": "AstraLib Configs",
+  "astralib.configuration.section.astralib.common.toml": "AstraLib Configs",
+  "astralib.configuration.section.astralib.common.toml.title": "AstraLib Configs",
+  "astralib.configuration.items": "Item List",
+  "astralib.configuration.logDirtBlock": "Log Dirt Block",
+  "astralib.configuration.magicNumberIntroduction": "Magic Number Text",
+  "astralib.configuration.magicNumber": "Magic Number"
+}
