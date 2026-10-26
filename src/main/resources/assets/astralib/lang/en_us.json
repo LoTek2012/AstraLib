@@ -9,5 +9,9 @@
   "astralib.configuration.items": "Item List",
   "astralib.configuration.logDirtBlock": "Log Dirt Block",
   "astralib.configuration.magicNumberIntroduction": "Magic Number Text",
-  "astralib.configuration.magicNumber": "Magic Number"
+  "astralib.configuration.magicNumber": "Magic Number",
+
+  "command.astralib.gravity.set": "Set gravity of %s to %s",
+  "command.astralib.gravity.get": "Gravity of %s is %s",
+  "command.astralib.gravity.reset": "Reset gravity of %s to %s"
 }
